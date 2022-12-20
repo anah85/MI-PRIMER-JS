@@ -1,0 +1,22 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de JavaScript con Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anah85/MI-PRIMER-JS.git"
+  },
+  "keywords": [
+    "holamundo"
+  ],
+  "author": "Ana Hartmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anah85/MI-PRIMER-JS/issues"
+  },
+  "homepage": "https://github.com/anah85/MI-PRIMER-JS#readme"
+}
